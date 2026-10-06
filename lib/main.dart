@@ -31,7 +31,7 @@ class CalculatorScreen extends StatefulWidget {
   @override
   State<CalculatorScreen> createState() => _CalculatorScreenState();
 }
-
+س تز
 class _CalculatorScreenState extends State<CalculatorScreen> {
   String _display = '0';
   String _firstNumber = '';
